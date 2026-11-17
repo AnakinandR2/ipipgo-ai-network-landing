@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="136" height="76" viewBox="0 0 136 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Shine Mask" filter="url(#filter0_f_0_558)">
+<mask id="stroke0_0_558">
+<path d="M38 58H98C109.046 58 118 49.0457 118 38V38C118 26.9543 109.046 18 98 18H38C26.9543 18 18 26.9543 18 38V38C18 49.0457 26.9543 58 38 58Z" stroke-width="24" stroke="white"/>
+</mask>
+<g clip-path="url(#paint0_angular_0_558_clip_path)" data-figma-skip-parse="true" mask="url(#stroke0_0_558)"><g transform="matrix(0.0673913 0 0 0.062 68 38)"><foreignObject x="-2344.52" y="-2344.52" width="4689.03" height="4689.03"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(255, 255, 255, 0.5) 0deg,rgba(255, 255, 255, 0) 60deg,rgba(255, 255, 255, 0) 301.875deg,rgba(255, 255, 255, 0.5) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><path d="M38 58H98C109.046 58 118 49.0457 118 38V38C118 26.9543 109.046 18 98 18H38C26.9543 18 18 26.9543 18 38V38C18 49.0457 26.9543 58 38 58Z" stroke-width="24" stroke="black" stroke-opacity="0" data-figma-gradient-stroke="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:0.0},&#34;position&#34;:0.16666667163372040},{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:0.0},&#34;position&#34;:0.83854168653488159},{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:0.50},&#34;position&#34;:1.0}],&#34;transform&#34;:{&#34;m00&#34;:134.78262329101562,&#34;m01&#34;:-1.6583174720571914e-12,&#34;m02&#34;:0.60869091749191284,&#34;m10&#34;:1.4992938531313560e-13,&#34;m11&#34;:124.0,&#34;m12&#34;:-23.999998092651367},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;stopsVar&#34;:[],&#34;visible&#34;:true}"/>
+</g>
+<defs>
+<filter id="filter0_f_0_558" x="0" y="0" width="136" height="76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3" result="effect1_foregroundBlur_0_558"/>
+</filter>
+<clipPath id="paint0_angular_0_558_clip_path"><rect x="-90" y="-90" width="316" height="256"/></clipPath></defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="THA" clip-path="url(#clip0_0_617)">
+<g id="Vector">
+<path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="white"/>
+<mask id="stroke0_0_617" fill="white">
+<path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z"/>
+</mask>
+<path d="M32 16C32 24.8366 24.8366 32 16 32C7.16344 32 0 24.8366 0 16C0 7.16344 7.16344 0 16 0C24.8366 0 32 7.16344 32 16Z" stroke-width="0.727273" stroke="#EBEBEB" mask="url(#stroke0_0_617)"/>
+</g>
+<path id="Vector_2" d="M31.0048 10.4348H0.995188C0.352 12.1681 0 14.0429 0 16C0 17.9571 0.352 19.8319 0.995188 21.5652H31.0049C31.648 19.8319 32 17.9571 32 16C32 14.0429 31.648 12.1681 31.0048 10.4348Z" fill="#0052B4"/>
+<g id="Group">
+<path id="Vector_3" d="M16 0C11.1506 0 6.80537 2.15775 3.87119 5.56519H28.1288C25.1946 2.15775 20.8494 0 16 0V0Z" fill="#D80027"/>
+<path id="Vector_4" d="M28.1288 26.4348H3.87119C6.80538 29.8423 11.1506 32 16 32C20.8494 32 25.1946 29.8423 28.1288 26.4348Z" fill="#D80027"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_617">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
